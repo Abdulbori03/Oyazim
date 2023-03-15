@@ -21,7 +21,7 @@
     font-size: 40px;
     font-family: Hack, sans-serif;
     text-transform: uppercase;
-    background: linear-gradient(90deg, #ffffff, #fff, #ffffff);
+    background: linear-gradient(90deg, #000000, #fff704, #000000);
     letter-spacing: 5px;
     -webkit-background-clip: text;
     background-clip: text;
