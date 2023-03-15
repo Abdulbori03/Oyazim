@@ -7,7 +7,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #FF00FF;
+    background: #0000FF;
   }
   a {
     text-decoration: none;
@@ -21,7 +21,7 @@
     font-size: 40px;
     font-family: Hack, sans-serif;
     text-transform: uppercase;
-    background: linear-gradient(90deg, #FF00FF, #ffffff, #FF00FF);
+    background: linear-gradient(90deg, #0000FF, #ffff3b, #0000FF);
     letter-spacing: 5px;
     -webkit-background-clip: text;
     background-clip: text;
